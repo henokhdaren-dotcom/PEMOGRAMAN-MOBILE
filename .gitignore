@@ -61,3 +61,4 @@ Thumbs.db
 # Symbolication & Obfuscation
 app.*.symbols
 app.*.map.json
+ 
